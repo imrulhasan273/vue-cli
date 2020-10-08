@@ -41,3 +41,7 @@
 - Chapter 10: Deploying To Heroku
 
 ---
+
+# **Chapter 3: Building Single File Components**
+
+---
