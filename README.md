@@ -27,3 +27,26 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+---
+
+---
+
+# **Installation**
+
+---
+
+```cmd
+~$ npm install -g @vue/cli
+~$ vue create vue-cli
+```
+
+---
+
+# **Extension**
+
+---
+
+- `Vetur`
+
+---
